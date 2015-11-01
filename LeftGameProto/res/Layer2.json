@@ -1,0 +1,28 @@
+{
+  "ID": "b3de270f-3067-446f-9a7f-d079490ed750",
+  "Version": "2.3.2.3",
+  "Name": "Layer2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5182,
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
