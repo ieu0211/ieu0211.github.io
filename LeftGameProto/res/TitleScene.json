@@ -17,7 +17,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "HelloWorld.png",
+              "Path": "SceneImgs/HelloWorld.png",
               "Plist": ""
             },
             "BlendFunc": {
@@ -106,7 +106,7 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "HelloWorld.png"
+        "SceneImgs/HelloWorld.png"
       ],
       "ctype": "GameProjectData"
     }

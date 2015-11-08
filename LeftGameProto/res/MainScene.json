@@ -5,429 +5,14 @@
   "Content": {
     "Content": {
       "Animation": {
-        "Duration": 30,
+        "Duration": 0,
         "Speed": 1.0,
-        "Timelines": [
-          {
-            "ActionTag": 2140484184,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 200.0,
-                "Y": 28.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 2140484184,
-            "Property": "AnchorPoint",
-            "Frames": [
-              {
-                "X": 0.5,
-                "Y": 0.5,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1112133401,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 400.0,
-                "Y": 880.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1112133401,
-            "Property": "CColor",
-            "Frames": [
-              {
-                "Alpha": 255,
-                "Color": {},
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ColorFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1112133401,
-            "Property": "Alpha",
-            "Frames": [
-              {
-                "Value": 255,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "IntFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 5660355,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 40.0,
-                "Y": 480.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -83250270,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 600.0,
-                "Y": 480.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -83250270,
-            "Property": "FrameEvent",
-            "Frames": [
-              {
-                "Value": "",
-                "FrameIndex": 0,
-                "Tween": false,
-                "ctype": "EventFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1010694877,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              },
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 5,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              },
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 30,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1010694877,
-            "Property": "Scale",
-            "Frames": [
-              {
-                "X": 1.0,
-                "Y": 1.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              },
-              {
-                "X": 0.5,
-                "Y": 0.5,
-                "FrameIndex": 5,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              },
-              {
-                "X": 0.5,
-                "Y": 0.5,
-                "FrameIndex": 15,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              },
-              {
-                "X": 0.75,
-                "Y": 0.75,
-                "FrameIndex": 30,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1010694877,
-            "Property": "RotationSkew",
-            "Frames": [
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              },
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 5,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              },
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 30,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": 1010694877,
-            "Property": "Alpha",
-            "Frames": [
-              {
-                "Value": 0,
-                "FrameIndex": 5,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "IntFrameData"
-              },
-              {
-                "Value": 255,
-                "FrameIndex": 15,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "IntFrameData"
-              },
-              {
-                "Value": 255,
-                "FrameIndex": 29,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "IntFrameData"
-              },
-              {
-                "Value": 0,
-                "FrameIndex": 30,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "IntFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1094251619,
-            "Property": "ActionValue",
-            "Frames": [
-              {
-                "InnerActionType": "SingleFrame",
-                "CurrentAniamtionName": "-- ALL --",
-                "SingleFrameIndex": 0,
-                "FrameIndex": 0,
-                "Tween": false,
-                "ctype": "InnerActionFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1094251619,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 320.0,
-                "Y": 480.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1094251619,
-            "Property": "Scale",
-            "Frames": [
-              {
-                "X": 1.0,
-                "Y": 1.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1094251619,
-            "Property": "RotationSkew",
-            "Frames": [
-              {
-                "X": 0.0,
-                "Y": 0.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "ScaleValueFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1799652071,
-            "Property": "Position",
-            "Frames": [
-              {
-                "X": 200.0,
-                "Y": 80.0,
-                "FrameIndex": 0,
-                "EasingData": {
-                  "Type": 0
-                },
-                "ctype": "PointFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          },
-          {
-            "ActionTag": -1799652071,
-            "Property": "FrameEvent",
-            "Frames": [
-              {
-                "Value": "",
-                "FrameIndex": 0,
-                "Tween": false,
-                "ctype": "EventFrameData"
-              }
-            ],
-            "ctype": "TimelineData"
-          }
-        ],
+        "Timelines": [],
         "ctype": "TimelineActionData"
       },
-      "AnimationList": [
-        {
-          "StartIndex": 5,
-          "EndIndex": 30,
-          "Name": "levelUp",
-          "ctype": "AnimationInfoData"
-        }
-      ],
+      "AnimationList": [],
       "ObjectData": {
         "Children": [
-          {
-            "FileData": {
-              "Type": "Normal",
-              "Path": "HelloWorld.png",
-              "Plist": ""
-            },
-            "BlendFunc": {
-              "Src": 1,
-              "Dst": 771
-            },
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 320.0,
-              "Y": 480.0
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.5
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "Tag": 5,
-            "ActionTag": -620272433,
-            "Size": {
-              "X": 640.0,
-              "Y": 960.0
-            },
-            "Name": "Default",
-            "ctype": "SpriteObjectData"
-          },
           {
             "ScrollDirectionType": 0,
             "BackColorAlpha": 102,
@@ -468,12 +53,13 @@
             "Tag": 39,
             "Children": [
               {
-                "BackColorAlpha": 102,
-                "ComboBoxIndex": 1,
-                "SingleColor": {
-                  "R": 150,
-                  "B": 171
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SceneImgs/back_main1.jpg",
+                  "Plist": ""
                 },
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
                 "FirstColor": {
                   "R": 150,
                   "G": 200
@@ -482,6 +68,7 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Enable": true,
                 "AnchorPoint": {},
                 "Position": {
                   "X": 0.0,
@@ -511,12 +98,13 @@
                 "ctype": "PanelObjectData"
               },
               {
-                "BackColorAlpha": 102,
-                "ComboBoxIndex": 1,
-                "SingleColor": {
-                  "R": 254,
-                  "G": 150
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SceneImgs/back_main2.jpg",
+                  "Plist": ""
                 },
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
                 "FirstColor": {
                   "R": 150,
                   "G": 200
@@ -525,6 +113,7 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Enable": true,
                 "AnchorPoint": {},
                 "Position": {
                   "X": 640.0,
@@ -551,12 +140,12 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "draky.jpg",
+                      "Path": "SceneImgs/chara01.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
                       "Src": 1,
-                      "Dst": 0
+                      "Dst": 1
                     },
                     "AnchorPoint": {
                       "ScaleX": 0.5,
@@ -587,11 +176,53 @@
                     "Tag": 54,
                     "ActionTag": 650497455,
                     "Size": {
-                      "X": 300.0,
-                      "Y": 300.0
+                      "X": 298.0,
+                      "Y": 290.0
                     },
+                    "VisibleForFrame": false,
                     "Name": "draky_1",
                     "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "NewAnimation.ExportJson",
+                      "Plist": ""
+                    },
+                    "IsLoop": true,
+                    "IsAutoPlay": true,
+                    "CurrentAnimationName": "stand",
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 480.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 320.0,
+                    "RightMargin": 320.0,
+                    "TopMargin": 480.0,
+                    "BottomMargin": 480.0,
+                    "Tag": 41,
+                    "ActionTag": 1709996004,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "ArmatureNode_1",
+                    "ctype": "ArmatureNodeObjectData"
                   }
                 ],
                 "ActionTag": 1251310663,
@@ -603,12 +234,13 @@
                 "ctype": "PanelObjectData"
               },
               {
-                "BackColorAlpha": 102,
-                "ComboBoxIndex": 1,
-                "SingleColor": {
-                  "R": 150,
-                  "G": 229
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SceneImgs/back_main3.jpg",
+                  "Plist": ""
                 },
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
                 "FirstColor": {
                   "R": 150,
                   "G": 200
@@ -617,6 +249,7 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Enable": true,
                 "AnchorPoint": {},
                 "Position": {
                   "X": 1280.0,
@@ -657,9 +290,97 @@
             "ctype": "PageViewObjectData"
           },
           {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/gauge.png",
+              "Plist": ""
+            },
+            "Scale9Width": 500,
+            "Scale9Height": 74,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.0,
+              "Y": 892.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4688,
+              "Y": 0.9292
+            },
+            "PreSize": {
+              "X": 0.7813,
+              "Y": 0.0771
+            },
+            "LeftMargin": 50.0,
+            "RightMargin": 90.0,
+            "TopMargin": 31.0,
+            "BottomMargin": 855.0,
+            "Tag": 3935,
+            "ActionTag": 1112133401,
+            "Size": {
+              "X": 500.0,
+              "Y": 74.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 342.0,
+              "Y": 895.0
+            },
+            "Scale": {
+              "ScaleX": 1.0338,
+              "ScaleY": 0.9359
+            },
+            "CColor": {
+              "R": 229,
+              "G": 64,
+              "B": 128
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5344,
+              "Y": 0.9323
+            },
+            "PreSize": {
+              "X": 0.5938,
+              "Y": 0.0417
+            },
+            "LeftMargin": 152.0,
+            "RightMargin": 108.0,
+            "TopMargin": 45.0,
+            "BottomMargin": 875.0,
+            "Tag": 55,
+            "ActionTag": 2140484184,
+            "Size": {
+              "X": 380.0,
+              "Y": 40.0
+            },
+            "Name": "LoadingBar_1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
             "CharWidth": 14,
             "CharHeight": 18,
-            "LabelText": "999",
+            "LabelText": "99",
             "StartChar": ".",
             "LabelAtlasFileImage_CNB": {
               "Type": "Default",
@@ -671,157 +392,64 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 150.0,
-              "Y": 880.0
+              "X": 98.0,
+              "Y": 893.9999
             },
             "Scale": {
-              "ScaleX": 2.0,
-              "ScaleY": 2.0
+              "ScaleX": 3.1262,
+              "ScaleY": 2.8551
             },
-            "CColor": {
-              "R": 0,
-              "G": 0
-            },
+            "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.2344,
-              "Y": 0.9167
+              "X": 0.1531,
+              "Y": 0.9312
             },
             "PreSize": {
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 66.0,
-            "RightMargin": 406.0,
-            "TopMargin": 71.0,
-            "BottomMargin": 871.0,
+            "LeftMargin": 84.0,
+            "RightMargin": 528.0,
+            "TopMargin": 57.0001,
+            "BottomMargin": 884.9999,
             "Tag": 58,
             "ActionTag": -2042176607,
             "Size": {
-              "X": 42.0,
+              "X": 28.0,
               "Y": 18.0
             },
             "Name": "AtlasLabel_1",
             "ctype": "TextAtlasObjectData"
           },
           {
-            "FileData": {
-              "Type": "Normal",
-              "Path": "LodingBar.png",
-              "Plist": ""
-            },
-            "Scale9Width": 278,
-            "Scale9Height": 53,
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 400.0,
-              "Y": 880.0
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.625,
-              "Y": 0.9167
-            },
-            "PreSize": {
-              "X": 0.625,
-              "Y": 0.0573
-            },
-            "LeftMargin": 200.0,
-            "RightMargin": 40.0,
-            "TopMargin": 52.5,
-            "BottomMargin": 852.5,
-            "Tag": 3935,
-            "Children": [
-              {
-                "ImageFileData": {
-                  "Type": "Default",
-                  "Path": "Default/LoadingBarFile.png",
-                  "Plist": ""
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 200.0,
-                  "Y": 28.0
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {
-                  "R": 229,
-                  "G": 64,
-                  "B": 128
-                },
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.5,
-                  "Y": 0.5091
-                },
-                "PreSize": {
-                  "X": 0.95,
-                  "Y": 0.8
-                },
-                "LeftMargin": 10.0,
-                "RightMargin": 10.0,
-                "TopMargin": 7.0,
-                "BottomMargin": 8.0,
-                "Tag": 55,
-                "ActionTag": 2140484184,
-                "Size": {
-                  "X": 380.0,
-                  "Y": 40.0
-                },
-                "Name": "LoadingBar_1",
-                "ctype": "LoadingBarObjectData"
-              }
-            ],
-            "ActionTag": 1112133401,
-            "Size": {
-              "X": 400.0,
-              "Y": 55.0
-            },
-            "Name": "Image_1",
-            "ctype": "ImageViewObjectData"
-          },
-          {
             "FontSize": 14,
-            "ButtonText": "<",
+            "ButtonText": "",
             "TextColor": {
               "R": 65,
               "G": 65,
               "B": 70
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_left.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_left.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_left.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 50,
+            "Scale9Height": 152,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -853,50 +481,49 @@
               "Y": 0.5
             },
             "PreSize": {
-              "X": 0.0781,
-              "Y": 0.1563
+              "X": 0.125,
+              "Y": 0.1813
             },
-            "LeftMargin": 15.0,
-            "RightMargin": 575.0,
-            "TopMargin": 405.0,
-            "BottomMargin": 405.0,
+            "RightMargin": 560.0,
+            "TopMargin": 393.0,
+            "BottomMargin": 393.0,
             "Tag": 3927,
             "ActionTag": 5660355,
             "Size": {
-              "X": 50.0,
-              "Y": 150.0
+              "X": 80.0,
+              "Y": 174.0
             },
             "Name": "Button_1",
             "ctype": "ButtonObjectData"
           },
           {
             "FontSize": 14,
-            "ButtonText": ">",
+            "ButtonText": "",
             "TextColor": {
               "R": 65,
               "G": 65,
               "B": 70
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_right.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_right.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button_right.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 50,
+            "Scale9Height": 152,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -928,19 +555,18 @@
               "Y": 0.5
             },
             "PreSize": {
-              "X": 0.0781,
-              "Y": 0.1563
+              "X": 0.125,
+              "Y": 0.1813
             },
-            "LeftMargin": 575.0,
-            "RightMargin": 15.0,
-            "TopMargin": 405.0,
-            "BottomMargin": 405.0,
+            "LeftMargin": 560.0,
+            "TopMargin": 393.0,
+            "BottomMargin": 393.0,
             "CallBackType": "Touch",
             "Tag": 3926,
             "ActionTag": -83250270,
             "Size": {
-              "X": 50.0,
-              "Y": 150.0
+              "X": 80.0,
+              "Y": 174.0
             },
             "Name": "Button_2",
             "ctype": "ButtonObjectData"
@@ -948,118 +574,75 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "Node.json",
+              "Path": "SceneImgs/back01.png",
               "Plist": ""
             },
-            "InnerActionSpeed": 1.0,
-            "AnchorPoint": {},
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": -14.71
             },
             "Scale": {
               "ScaleX": 1.0,
               "ScaleY": 1.0
             },
             "CColor": {},
-            "IconVisible": true,
+            "IconVisible": false,
             "PrePosition": {
               "X": 0.5,
-              "Y": 0.5
+              "Y": -0.0153
             },
             "PreSize": {
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 320.0,
-            "RightMargin": 320.0,
-            "TopMargin": 480.0,
-            "BottomMargin": 480.0,
-            "Tag": 3919,
-            "Children": [
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "levelUp.png",
-                  "Plist": ""
-                },
-                "BlendFunc": {
-                  "Src": 770,
-                  "Dst": 771
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": -600.0,
-                "RightMargin": -600.0,
-                "TopMargin": -400.0,
-                "BottomMargin": -400.0,
-                "Tag": 3921,
-                "ActionTag": 1010694877,
-                "Size": {
-                  "X": 1200.0,
-                  "Y": 800.0
-                },
-                "Alpha": 0,
-                "Name": "levelUp_5",
-                "ctype": "SpriteObjectData"
-              }
-            ],
-            "ActionTag": -1094251619,
+            "TopMargin": 811.71,
+            "BottomMargin": -177.71,
+            "Tag": 5579,
+            "ActionTag": 1089631898,
             "Size": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 640.0,
+              "Y": 326.0
             },
-            "Name": "ProjectNode_2",
-            "ctype": "ProjectNodeObjectData"
+            "Alpha": 174,
+            "Name": "back01_2",
+            "ctype": "SpriteObjectData"
           },
           {
             "FontSize": 14,
-            "ButtonText": "図鑑",
+            "ButtonText": "",
             "TextColor": {
               "R": 65,
               "G": 65,
               "B": 70
             },
             "DisabledFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Disable.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button01.png",
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button01.png",
               "Plist": ""
             },
             "NormalFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Normal.png",
+              "Type": "Normal",
+              "Path": "SceneImgs/button01.png",
               "Plist": ""
             },
             "Scale9Enable": true,
             "Scale9OriginX": 15,
             "Scale9OriginY": 11,
-            "Scale9Width": 16,
-            "Scale9Height": 14,
+            "Scale9Width": 190,
+            "Scale9Height": 58,
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -1077,8 +660,290 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 200.0,
+              "X": 173.0001,
+              "Y": 78.0001
+            },
+            "Scale": {
+              "ScaleX": 1.007,
+              "ScaleY": 1.001
+            },
+            "RotationSkewX": 0.3126,
+            "RotationSkewY": 0.3178,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2703,
+              "Y": 0.0813
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.0833
+            },
+            "LeftMargin": 63.0001,
+            "RightMargin": 356.9999,
+            "TopMargin": 841.9999,
+            "BottomMargin": 38.0001,
+            "CallBackType": "Touch",
+            "Tag": 5186,
+            "ActionTag": -1799652071,
+            "Size": {
+              "X": 220.0,
               "Y": 80.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/button02.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/button02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/button02.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 190,
+            "Scale9Height": 58,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 466.0,
+              "Y": 77.0
+            },
+            "Scale": {
+              "ScaleX": 1.007,
+              "ScaleY": 1.001
+            },
+            "RotationSkewX": 0.3126,
+            "RotationSkewY": 0.3178,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7281,
+              "Y": 0.0802
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.0833
+            },
+            "LeftMargin": 356.0,
+            "RightMargin": 64.0,
+            "TopMargin": 843.0,
+            "BottomMargin": 37.0,
+            "CallBackType": "Touch",
+            "Tag": 15,
+            "ActionTag": 1293923335,
+            "Size": {
+              "X": 220.0,
+              "Y": 80.0
+            },
+            "Name": "Button_3_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon02.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon02.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 590.1508,
+              "Y": 921.1666
+            },
+            "Scale": {
+              "ScaleX": 0.9943,
+              "ScaleY": 0.9855
+            },
+            "RotationSkewX": 0.3158,
+            "RotationSkewY": 0.3271,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9221,
+              "Y": 0.9595
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0729
+            },
+            "LeftMargin": 555.1508,
+            "RightMargin": 14.8492,
+            "TopMargin": 3.8334,
+            "BottomMargin": 886.1666,
+            "CallBackType": "Touch",
+            "Tag": 16,
+            "ActionTag": -220445580,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "Button_3_0_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon01.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon01.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/icon01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 40,
+            "Scale9Height": 48,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 589.722,
+              "Y": 866.0884
+            },
+            "Scale": {
+              "ScaleX": 0.9943,
+              "ScaleY": 0.9855
+            },
+            "RotationSkewX": 0.3158,
+            "RotationSkewY": 0.3271,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9214,
+              "Y": 0.9022
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0729
+            },
+            "LeftMargin": 554.722,
+            "RightMargin": 15.278,
+            "TopMargin": 58.9116,
+            "BottomMargin": 831.0884,
+            "CallBackType": "Touch",
+            "Tag": 17,
+            "ActionTag": -1233941181,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "Button_3_0_0_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "SceneImgs/image.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9997,
+              "Y": 390.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -1087,26 +952,27 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.3125,
-              "Y": 0.0833
+              "X": 0.5,
+              "Y": 0.4063
             },
             "PreSize": {
-              "X": 0.2344,
-              "Y": 0.0625
+              "X": 0.0,
+              "Y": 0.0
             },
-            "LeftMargin": 125.0,
-            "RightMargin": 365.0,
-            "TopMargin": 850.0,
-            "BottomMargin": 50.0,
-            "CallBackType": "Touch",
-            "Tag": 5186,
-            "ActionTag": -1799652071,
+            "LeftMargin": -0.0003,
+            "RightMargin": 0.0003,
+            "TopMargin": 2.0,
+            "BottomMargin": -178.0,
+            "Tag": 5,
+            "ActionTag": -620272433,
             "Size": {
-              "X": 150.0,
-              "Y": 60.0
+              "X": 640.0,
+              "Y": 1136.0
             },
-            "Name": "Button_3",
-            "ctype": "ButtonObjectData"
+            "VisibleForFrame": false,
+            "Alpha": 25,
+            "Name": "Default",
+            "ctype": "SpriteObjectData"
           }
         ],
         "Size": {
@@ -1117,16 +983,24 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "Default/Button_Normal.png",
-        "Default/Button_Press.png",
         "Default/LoadingBarFile.png",
         "Default/TextAtlas.png",
-        "draky.jpg",
-        "HelloWorld.png",
-        "levelUp.png",
-        "LodingBar.png",
-        "Node.json"
+        "NewAnimation.ExportJson",
+        "NewAnimation0.plist",
+        "NewAnimation0.png",
+        "SceneImgs/back_main1.jpg",
+        "SceneImgs/back_main2.jpg",
+        "SceneImgs/back_main3.jpg",
+        "SceneImgs/back01.png",
+        "SceneImgs/button_left.png",
+        "SceneImgs/button_right.png",
+        "SceneImgs/button01.png",
+        "SceneImgs/button02.png",
+        "SceneImgs/chara01.png",
+        "SceneImgs/gauge.png",
+        "SceneImgs/icon01.png",
+        "SceneImgs/icon02.png",
+        "SceneImgs/image.jpg"
       ],
       "ctype": "GameProjectData"
     }

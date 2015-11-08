@@ -254,6 +254,8 @@
                 <file name="src/titleScene.js"/>
                 <file name="src/mainScene.js"/>
                 <file name="src/collectionScene.js"/>
+                <file name="src/effectScene.js"/>
+                <file name="src/detailScene.js"/>
                 <file name="main.js"/>
 
             </sources>
