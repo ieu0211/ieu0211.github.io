@@ -1,0 +1,604 @@
+{
+  "ID": "e25a36b6-cce0-433e-90be-bdce629aa680",
+  "Version": "2.3.2.3",
+  "Name": "LoveScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 262,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back_main1.jpg",
+              "Plist": ""
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 834,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9986,
+              "Y": 479.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0029,
+              "ScaleY": 1.1489
+            },
+            "CColor": {
+              "R": 77,
+              "G": 77,
+              "B": 77
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8687
+            },
+            "LeftMargin": -0.0014,
+            "RightMargin": 0.0013,
+            "TopMargin": 63.0006,
+            "BottomMargin": 62.9994,
+            "Tag": 263,
+            "ActionTag": 1968455319,
+            "Size": {
+              "X": 640.0,
+              "Y": 834.0
+            },
+            "Name": "BackGroundImage_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 12.2892
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0128
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 784.7108,
+            "BottomMargin": -150.7108,
+            "Tag": 275,
+            "ActionTag": -1614279669,
+            "Size": {
+              "X": 640.0,
+              "Y": 326.0
+            },
+            "Name": "Parts_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 80.0,
+              "Y": 890.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.125,
+              "Y": 0.9271
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.1042
+            },
+            "RightMargin": 480.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 840.0,
+            "Tag": 279,
+            "ActionTag": -1000838359,
+            "Size": {
+              "X": 160.0,
+              "Y": 100.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "aaaaaaaaaa¥naaaaaaaa",
+            "LabelBMFontFile_CNB": {
+              "Type": "Default",
+              "Path": "Default/defaultBMFont.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 780.0
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 180.5,
+            "RightMargin": 180.5,
+            "TopMargin": 162.0,
+            "BottomMargin": 762.0,
+            "Tag": 280,
+            "ActionTag": 2142719068,
+            "Size": {
+              "X": 279.0,
+              "Y": 36.0
+            },
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/character_A01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 171.0,
+            "RightMargin": 171.0,
+            "TopMargin": 335.0,
+            "BottomMargin": 335.0,
+            "Tag": 281,
+            "ActionTag": 1012075094,
+            "Size": {
+              "X": 298.0,
+              "Y": 290.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 50.2801,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0786,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 7.2801,
+            "RightMargin": 546.7198,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 282,
+            "ActionTag": -2040179498,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.601,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2197,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.601,
+            "RightMargin": 456.399,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 283,
+            "ActionTag": 657826055,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star02",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 230.9218,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3608,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 187.9218,
+            "RightMargin": 366.0782,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 284,
+            "ActionTag": -2041177114,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star03",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.2427,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5019,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 278.2427,
+            "RightMargin": 275.7573,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 285,
+            "ActionTag": 1019467492,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star04",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.564,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6431,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 368.564,
+            "RightMargin": 185.436,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 286,
+            "ActionTag": 1699669086,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star05",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 501.8844,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7842,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 458.8844,
+            "RightMargin": 95.1156,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 287,
+            "ActionTag": 18251605,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star06",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.2054,
+              "Y": 211.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9253,
+              "Y": 0.2204
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 549.2054,
+            "RightMargin": 4.7946,
+            "TopMargin": 705.401,
+            "BottomMargin": 168.599,
+            "Tag": 288,
+            "ActionTag": 856648311,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star07",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CSResources/back_main1.jpg",
+        "CSResources/back01.png",
+        "CSResources/button_back.png",
+        "CSResources/character_A01.png",
+        "CSResources/star03.png",
+        "Default/defaultBMFont.fnt",
+        "Default/defaultBMFont.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

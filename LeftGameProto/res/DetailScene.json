@@ -16,8 +16,8 @@
         "Children": [
           {
             "FileData": {
-              "Type": "Normal",
-              "Path": "SceneImgs/nekodash_03.jpg",
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
               "Plist": ""
             },
             "BlendFunc": {
@@ -265,7 +265,7 @@
         "Default/Button_Normal.png",
         "Default/Button_Press.png",
         "Default/ImageFile.png",
-        "SceneImgs/nekodash_03.jpg"
+        "Default/Sprite.png"
       ],
       "ctype": "GameProjectData"
     }

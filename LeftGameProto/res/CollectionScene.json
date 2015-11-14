@@ -16,8 +16,8 @@
         "Children": [
           {
             "FileData": {
-              "Type": "Normal",
-              "Path": "SceneImgs/nameko007.jpg",
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
               "Plist": ""
             },
             "BlendFunc": {
@@ -296,7 +296,7 @@
         "Default/Button_Disable.png",
         "Default/Button_Normal.png",
         "Default/Button_Press.png",
-        "SceneImgs/nameko007.jpg"
+        "Default/Sprite.png"
       ],
       "ctype": "GameProjectData"
     }

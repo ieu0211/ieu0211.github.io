@@ -253,9 +253,11 @@
                 <file name="src/resource.js"/>
                 <file name="src/titleScene.js"/>
                 <file name="src/mainScene.js"/>
-                <file name="src/collectionScene.js"/>
+                <file name="src/loveScene.js"/>
                 <file name="src/effectScene.js"/>
-                <file name="src/detailScene.js"/>
+                <file name="src/collectionCharaScene.js"/>
+                <file name="src/collectionFigureScene.js"/>
+                <file name="src/collectionTreasureScene.js"/>
                 <file name="main.js"/>
 
             </sources>

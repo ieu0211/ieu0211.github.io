@@ -1,0 +1,309 @@
+{
+  "ID": "56d39af3-3b86-468b-89cc-86592ace20d2",
+  "Version": "2.3.2.3",
+  "Name": "GameScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 41,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back_main4.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 275,
+            "Scale9Width": 218,
+            "Scale9Height": 284,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9986,
+              "Y": 479.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0029,
+              "ScaleY": 1.1489
+            },
+            "CColor": {
+              "R": 77,
+              "G": 77,
+              "B": 77
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8687
+            },
+            "LeftMargin": -0.0014,
+            "RightMargin": 0.0013,
+            "TopMargin": 63.0006,
+            "BottomMargin": 62.9994,
+            "Tag": 294,
+            "ActionTag": -1967448017,
+            "Size": {
+              "X": 640.0,
+              "Y": 834.0
+            },
+            "Name": "BackGroundImage_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 12.2892
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0128
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 784.7108,
+            "BottomMargin": -150.7108,
+            "Tag": 295,
+            "ActionTag": 117479561,
+            "Size": {
+              "X": 640.0,
+              "Y": 326.0
+            },
+            "Name": "Parts_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/character_A01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 171.0,
+            "RightMargin": 171.0,
+            "TopMargin": 335.0,
+            "BottomMargin": 335.0,
+            "Tag": 296,
+            "ActionTag": 1232078303,
+            "Size": {
+              "X": 298.0,
+              "Y": 290.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/gauge.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 165,
+            "Scale9OriginY": 24,
+            "Scale9Width": 170,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.0,
+              "Y": 892.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4688,
+              "Y": 0.9292
+            },
+            "PreSize": {
+              "X": 0.7812,
+              "Y": 0.0771
+            },
+            "LeftMargin": 50.0,
+            "RightMargin": 90.0,
+            "TopMargin": 31.0,
+            "BottomMargin": 855.0,
+            "Tag": 297,
+            "ActionTag": 261613015,
+            "Size": {
+              "X": 500.0,
+              "Y": 74.0
+            },
+            "Name": "LoadingBar_1_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 342.0,
+              "Y": 895.0
+            },
+            "Scale": {
+              "ScaleX": 1.0338,
+              "ScaleY": 0.9359
+            },
+            "CColor": {
+              "R": 229,
+              "G": 64,
+              "B": 128
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5344,
+              "Y": 0.9323
+            },
+            "PreSize": {
+              "X": 0.5938,
+              "Y": 0.0417
+            },
+            "LeftMargin": 152.0,
+            "RightMargin": 108.0,
+            "TopMargin": 45.0,
+            "BottomMargin": 875.0,
+            "Tag": 298,
+            "ActionTag": -557261660,
+            "Size": {
+              "X": 380.0,
+              "Y": 40.0
+            },
+            "Name": "LoadingBar_1_1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "CharWidth": 14,
+            "CharHeight": 18,
+            "LabelText": "9",
+            "StartChar": ".",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Default",
+              "Path": "Default/TextAtlas.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 98.0,
+              "Y": 893.9999
+            },
+            "Scale": {
+              "ScaleX": 2.5,
+              "ScaleY": 2.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1531,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 84.0,
+            "RightMargin": 528.0,
+            "TopMargin": 57.0001,
+            "BottomMargin": 884.9999,
+            "Tag": 299,
+            "ActionTag": 1148916555,
+            "Size": {
+              "X": 14.0,
+              "Y": 18.0
+            },
+            "Name": "AtlasLabel_1",
+            "ctype": "TextAtlasObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CSResources/back_main4.jpg",
+        "CSResources/back01.png",
+        "CSResources/character_A01.png",
+        "CSResources/gauge.png",
+        "Default/LoadingBarFile.png",
+        "Default/TextAtlas.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
