@@ -1,0 +1,17 @@
+{
+  "1": { "charaId":1, "lv":1, "exp":0, "name":"キャラ1", "comment":"1体目1", "enableImage":"character_A01.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "2": { "charaId":1, "lv":2, "exp":50, "name":"キャラ1", "comment":"1体目2", "enableImage":"character_A02.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "3": { "charaId":1, "lv":3, "exp":100, "name":"キャラ1", "comment":"1体目3", "enableImage":"character_A03.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "4": { "charaId":1, "lv":4, "exp":150, "name":"キャラ1", "comment":"1体目4", "enableImage":"character_A04.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "5": { "charaId":1, "lv":5, "exp":200, "name":"キャラ1", "comment":"1体目5", "enableImage":"character_A05.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "6": { "charaId":2, "lv":1, "exp":250, "name":"キャラ2", "comment":"2体目1", "enableImage":"character_B01.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "7": { "charaId":2, "lv":2, "exp":300, "name":"キャラ2", "comment":"2体目2", "enableImage":"character_B02.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "8": { "charaId":2, "lv":3, "exp":350, "name":"キャラ2", "comment":"2体目3", "enableImage":"character_B03.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "9": { "charaId":2, "lv":4, "exp":400, "name":"キャラ2", "comment":"2体目4", "enableImage":"character_B04.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "10": { "charaId":2, "lv":5, "exp":450, "name":"キャラ2", "comment":"2体目5", "enableImage":"character_B05.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "11": { "charaId":3, "lv":1, "exp":500, "name":"キャラ3", "comment":"3体目1", "enableImage":"character_C01.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "12": { "charaId":3, "lv":2, "exp":550, "name":"キャラ3", "comment":"3体目2", "enableImage":"character_C02.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "13": { "charaId":3, "lv":3, "exp":600, "name":"キャラ3", "comment":"3体目3", "enableImage":"character_C03.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "14": { "charaId":3, "lv":4, "exp":650, "name":"キャラ3", "comment":"3体目4", "enableImage":"character_C04.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0},
+  "15": { "charaId":3, "lv":5, "exp":700, "name":"キャラ3", "comment":"3体目5", "enableImage":"character_C05.png", "disableImage":0, "partsImage1":0, "partsImage2":0, "partsImage3":0}
+}

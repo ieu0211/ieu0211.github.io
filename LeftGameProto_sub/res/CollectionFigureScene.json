@@ -1,0 +1,951 @@
+{
+  "ID": "c3a23ecc-da88-4962-87f5-88277de26295",
+  "Version": "2.3.2.3",
+  "Name": "CollectionFigureScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 199,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back_main2.jpg",
+              "Plist": ""
+            },
+            "Scale9Width": 640,
+            "Scale9Height": 834,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9986,
+              "Y": 479.9994
+            },
+            "Scale": {
+              "ScaleX": 1.0029,
+              "ScaleY": 1.1489
+            },
+            "CColor": {
+              "R": 77,
+              "G": 77,
+              "B": 77
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8687
+            },
+            "LeftMargin": -0.0014,
+            "RightMargin": 0.0013,
+            "TopMargin": 63.0006,
+            "BottomMargin": 62.9994,
+            "Tag": 200,
+            "ActionTag": -1965030428,
+            "Size": {
+              "X": 640.0,
+              "Y": 834.0
+            },
+            "Name": "BackGroundImage_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ScrollDirectionType": 0,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 550.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5729
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8125
+            },
+            "TopMargin": 20.0,
+            "BottomMargin": 160.0,
+            "Tag": 227,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "CSResources/shelf_1.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 228,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure01.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 149.9963,
+                      "Y": 521.2328
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2344,
+                      "Y": 0.6682
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 67.9963,
+                    "RightMargin": 408.0037,
+                    "TopMargin": 176.7672,
+                    "BottomMargin": 439.2328,
+                    "Tag": 230,
+                    "ActionTag": 377120361,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure01",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure02.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 319.998,
+                      "Y": 521.2328
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6682
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 237.998,
+                    "RightMargin": 238.002,
+                    "TopMargin": 176.7672,
+                    "BottomMargin": 439.2328,
+                    "Tag": 231,
+                    "ActionTag": -674703865,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure02",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure03.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 489.9974,
+                      "Y": 521.2328
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7656,
+                      "Y": 0.6682
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 407.9974,
+                    "RightMargin": 68.0026,
+                    "TopMargin": 176.7672,
+                    "BottomMargin": 439.2328,
+                    "Tag": 232,
+                    "ActionTag": 1739305199,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure03",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure04.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 149.9963,
+                      "Y": 331.2332
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2344,
+                      "Y": 0.4247
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 67.9963,
+                    "RightMargin": 408.0037,
+                    "TopMargin": 366.7668,
+                    "BottomMargin": 249.2332,
+                    "Tag": 233,
+                    "ActionTag": -2076089763,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure04",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure05.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 319.998,
+                      "Y": 331.2332
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4247
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 237.998,
+                    "RightMargin": 238.002,
+                    "TopMargin": 366.7668,
+                    "BottomMargin": 249.2332,
+                    "Tag": 234,
+                    "ActionTag": 899861031,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure05",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure06.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 489.9974,
+                      "Y": 331.2332
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7656,
+                      "Y": 0.4247
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 407.9974,
+                    "RightMargin": 68.0026,
+                    "TopMargin": 366.7668,
+                    "BottomMargin": 249.2332,
+                    "Tag": 235,
+                    "ActionTag": 367062151,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure06",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure07.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 149.9963,
+                      "Y": 121.2347
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2344,
+                      "Y": 0.1554
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 67.9963,
+                    "RightMargin": 408.0037,
+                    "TopMargin": 576.7653,
+                    "BottomMargin": 39.2347,
+                    "Tag": 236,
+                    "ActionTag": 1792791424,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure07",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure08.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 319.998,
+                      "Y": 121.2347
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1554
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 237.998,
+                    "RightMargin": 238.002,
+                    "TopMargin": 576.7653,
+                    "BottomMargin": 39.2347,
+                    "Tag": 237,
+                    "ActionTag": -543531393,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure08",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "CSResources/figure09.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 489.9974,
+                      "Y": 121.2347
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7656,
+                      "Y": 0.1554
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 407.9974,
+                    "RightMargin": 68.0026,
+                    "TopMargin": 576.7653,
+                    "BottomMargin": 39.2347,
+                    "Tag": 238,
+                    "ActionTag": -1004209413,
+                    "Size": {
+                      "X": 164.0,
+                      "Y": 164.0
+                    },
+                    "Name": "figure09",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1322612224,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 780.0
+                },
+                "Name": "Panel_6",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 579461087,
+            "Size": {
+              "X": 640.0,
+              "Y": 780.0
+            },
+            "Name": "PageView_2",
+            "ctype": "PageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/back01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 12.2892
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0128
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 784.7108,
+            "BottomMargin": -150.7108,
+            "Tag": 212,
+            "ActionTag": -787236498,
+            "Size": {
+              "X": 640.0,
+              "Y": 326.0
+            },
+            "Name": "Parts_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button04_off.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button04.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button04.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 190,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 110.0,
+              "Y": 72.0
+            },
+            "Scale": {
+              "ScaleX": 0.907,
+              "ScaleY": 0.9016
+            },
+            "RotationSkewX": 0.3126,
+            "RotationSkewY": 0.3178,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1719,
+              "Y": 0.075
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.1042
+            },
+            "RightMargin": 420.0,
+            "TopMargin": 838.0,
+            "BottomMargin": 22.0,
+            "Tag": 217,
+            "ActionTag": -1906957580,
+            "Size": {
+              "X": 220.0,
+              "Y": 100.0
+            },
+            "Name": "Button_2_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button01.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button01.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 190,
+            "Scale9Height": 78,
+            "DisplayState": false,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 72.0
+            },
+            "Scale": {
+              "ScaleX": 0.907,
+              "ScaleY": 0.9016
+            },
+            "RotationSkewX": 0.3126,
+            "RotationSkewY": 0.3178,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.075
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.1042
+            },
+            "LeftMargin": 210.0,
+            "RightMargin": 210.0,
+            "TopMargin": 838.0,
+            "BottomMargin": 22.0,
+            "Tag": 218,
+            "ActionTag": -1262791004,
+            "Size": {
+              "X": 220.0,
+              "Y": 100.0
+            },
+            "Name": "Button_2_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button05_off.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button05.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button05.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 190,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 530.0,
+              "Y": 72.0
+            },
+            "Scale": {
+              "ScaleX": 0.907,
+              "ScaleY": 0.9016
+            },
+            "RotationSkewX": 0.3109,
+            "RotationSkewY": 0.3178,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8281,
+              "Y": 0.075
+            },
+            "PreSize": {
+              "X": 0.3438,
+              "Y": 0.1042
+            },
+            "LeftMargin": 420.0,
+            "TopMargin": 838.0,
+            "BottomMargin": 22.0,
+            "Tag": 219,
+            "ActionTag": 67197243,
+            "Size": {
+              "X": 220.0,
+              "Y": 100.0
+            },
+            "Name": "Button_2_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "CSResources/button_back.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 80.0,
+              "Y": 890.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.125,
+              "Y": 0.9271
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.1042
+            },
+            "RightMargin": 480.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 840.0,
+            "Tag": 220,
+            "ActionTag": -413329207,
+            "Size": {
+              "X": 160.0,
+              "Y": 100.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "CSResources/back_main2.jpg",
+        "CSResources/back01.png",
+        "CSResources/button_back.png",
+        "CSResources/button01.png",
+        "CSResources/button04.png",
+        "CSResources/button04_off.png",
+        "CSResources/button05.png",
+        "CSResources/button05_off.png",
+        "CSResources/figure01.png",
+        "CSResources/figure02.png",
+        "CSResources/figure03.png",
+        "CSResources/figure04.png",
+        "CSResources/figure05.png",
+        "CSResources/figure06.png",
+        "CSResources/figure07.png",
+        "CSResources/figure08.png",
+        "CSResources/figure09.png",
+        "CSResources/shelf_1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

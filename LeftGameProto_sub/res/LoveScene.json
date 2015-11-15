@@ -179,6 +179,48 @@
             "ctype": "ButtonObjectData"
           },
           {
+            "LabelText": "aaaaaaaaaa¥naaaaaaaa",
+            "LabelBMFontFile_CNB": {
+              "Type": "Default",
+              "Path": "Default/defaultBMFont.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 780.0
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 180.5,
+            "RightMargin": 180.5,
+            "TopMargin": 162.0,
+            "BottomMargin": 762.0,
+            "Tag": 280,
+            "ActionTag": 2142719068,
+            "Size": {
+              "X": 279.0,
+              "Y": 36.0
+            },
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
             "FileData": {
               "Type": "Normal",
               "Path": "CSResources/character_A01.png",
@@ -537,58 +579,6 @@
             },
             "Name": "star07",
             "ctype": "SpriteObjectData"
-          },
-          {
-            "FontSize": 45,
-            "LabelText": "ドラキートをつついて\nテンションをあげよう！",
-            "TouchScaleChangeAble": true,
-            "HorizontalAlignmentType": "HT_Center",
-            "VerticalAlignmentType": "VT_Center",
-            "OutlineColor": {
-              "G": 0,
-              "B": 0
-            },
-            "ShadowColor": {
-              "R": 110,
-              "G": 110,
-              "B": 110
-            },
-            "ShadowOffsetX": 2.0,
-            "ShadowOffsetY": -2.0,
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 320.0,
-              "Y": 750.0
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.7813
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "LeftMargin": 254.5,
-            "RightMargin": 254.5,
-            "TopMargin": 198.5,
-            "BottomMargin": 738.5,
-            "Tag": 304,
-            "ActionTag": -1210434841,
-            "Size": {
-              "X": 490.0,
-              "Y": 104.0
-            },
-            "Name": "Text_1",
-            "ctype": "TextObjectData"
           }
         ],
         "Size": {
@@ -603,7 +593,9 @@
         "CSResources/back01.png",
         "CSResources/button_back.png",
         "CSResources/character_A01.png",
-        "CSResources/star03.png"
+        "CSResources/star03.png",
+        "Default/defaultBMFont.fnt",
+        "Default/defaultBMFont.png"
       ],
       "ctype": "GameProjectData"
     }

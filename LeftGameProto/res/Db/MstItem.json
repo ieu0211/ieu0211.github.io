@@ -1,0 +1,5 @@
+{
+  "1": { "image":"item01.png", "exp":5, "weight":70},
+  "2": { "image":"item02.png", "exp":10, "weight":20},
+  "3": { "image":"item03.png", "exp":20, "weight":10}
+}

@@ -1,0 +1,20 @@
+{
+  "1": { "name":"宝物1", "enableImage":"treasure01.png", "disableImage":"treasure01_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "2": { "name":"宝物2", "enableImage":"treasure02.png", "disableImage":"treasure02_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "3": { "name":"宝物3", "enableImage":"treasure03.png", "disableImage":"treasure03_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "4": { "name":"宝物4", "enableImage":"treasure04.png", "disableImage":"treasure04_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "5": { "name":"宝物5", "enableImage":"treasure05.png", "disableImage":"treasure05_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "6": { "name":"宝物6", "enableImage":"treasure06.png", "disableImage":"treasure06_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "7": { "name":"宝物7", "enableImage":"treasure07.png", "disableImage":"treasure07_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "8": { "name":"宝物8", "enableImage":"treasure08.png", "disableImage":"treasure08_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "9": { "name":"宝物9", "enableImage":"treasure09.png", "disableImage":"treasure09_off.png", "charaId":1, "exp":0, "placeId":0, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "10": { "name":"宝物10", "enableImage":"treasure10.png", "disableImage":"treasure10_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "11": { "name":"宝物11", "enableImage":"treasure11.png", "disableImage":"treasure11_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "12": { "name":"宝物12", "enableImage":"treasure12.png", "disableImage":"treasure12_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "13": { "name":"宝物13", "enableImage":"treasure13.png", "disableImage":"treasure13_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "14": { "name":"宝物14", "enableImage":"treasure14.png", "disableImage":"treasure14_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "15": { "name":"宝物15", "enableImage":"treasure15.png", "disableImage":"treasure15_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "16": { "name":"宝物16", "enableImage":"treasure16.png", "disableImage":"treasure16_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "17": { "name":"宝物17", "enableImage":"treasure17.png", "disableImage":"treasure17_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360},
+  "18": { "name":"宝物18", "enableImage":"treasure18.png", "disableImage":"treasure18_off.png", "charaId":1, "exp":0, "placeId":2, "appearStartTime":0, "appearEndTime":24, "weight":1, "appearTime":360}
+}

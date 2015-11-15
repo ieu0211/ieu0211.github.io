@@ -1,0 +1,5 @@
+{
+  "0": { "name":"森", "weight":1, "type0Weight":95, "type1Weight":3, "type2Weight":2},
+  "1": { "name":"館", "weight":1, "type0Weight":100, "type1Weight":0, "type2Weight":0},
+  "2": { "name":"街", "weight":1, "type0Weight":95, "type1Weight":3, "type2Weight":2}
+}
