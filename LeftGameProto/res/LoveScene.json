@@ -1,6 +1,6 @@
 {
   "ID": "e25a36b6-cce0-433e-90be-bdce629aa680",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "LoveScene",
   "Content": {
     "Content": {
@@ -17,7 +17,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "CSResources/back_main1.jpg",
+              "Path": "CSResources/back_main2_1.jpg",
               "Plist": ""
             },
             "Scale9Width": 640,
@@ -49,7 +49,7 @@
               "Y": 0.8687
             },
             "LeftMargin": -0.0014,
-            "RightMargin": 0.0013,
+            "RightMargin": 0.0014,
             "TopMargin": 63.0006,
             "BottomMargin": 62.9994,
             "Tag": 263,
@@ -90,8 +90,8 @@
               "Y": 0.0128
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 1.0,
+              "Y": 0.3396
             },
             "TopMargin": 784.7108,
             "BottomMargin": -150.7108,
@@ -207,8 +207,8 @@
               "Y": 0.5
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.4656,
+              "Y": 0.3021
             },
             "LeftMargin": 171.0,
             "RightMargin": 171.0,
@@ -252,11 +252,11 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 7.2801,
-            "RightMargin": 546.7198,
+            "RightMargin": 546.7199,
             "TopMargin": 705.401,
             "BottomMargin": 168.599,
             "Tag": 282,
@@ -297,8 +297,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 97.601,
             "RightMargin": 456.399,
@@ -342,8 +342,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 187.9218,
             "RightMargin": 366.0782,
@@ -387,8 +387,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 278.2427,
             "RightMargin": 275.7573,
@@ -432,8 +432,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 368.564,
             "RightMargin": 185.436,
@@ -477,8 +477,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 458.8844,
             "RightMargin": 95.1156,
@@ -522,8 +522,8 @@
               "Y": 0.2204
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.1344,
+              "Y": 0.0896
             },
             "LeftMargin": 549.2054,
             "RightMargin": 4.7946,
@@ -571,16 +571,16 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.5,
-              "Y": 0.7813
+              "Y": 0.7812
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.7656,
+              "Y": 0.1083
             },
-            "LeftMargin": 254.5,
-            "RightMargin": 254.5,
-            "TopMargin": 198.5,
-            "BottomMargin": 738.5,
+            "LeftMargin": 75.0,
+            "RightMargin": 75.0,
+            "TopMargin": 158.0,
+            "BottomMargin": 698.0,
             "Tag": 304,
             "ActionTag": -1210434841,
             "Size": {
@@ -599,13 +599,13 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "CSResources/back_main1.jpg",
+        "CSResources/back_main2_1.jpg",
         "CSResources/back01.png",
         "CSResources/button_back.png",
         "CSResources/character_A01.png",
         "CSResources/star03.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Scene"

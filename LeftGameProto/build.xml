@@ -258,6 +258,7 @@
                 <file name="src/collectionCharaScene.js"/>
                 <file name="src/collectionFigureScene.js"/>
                 <file name="src/collectionTreasureScene.js"/>
+                <file name="src/gameScene.js"/>
                 <file name="main.js"/>
 
             </sources>

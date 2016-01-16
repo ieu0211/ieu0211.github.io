@@ -1,6 +1,6 @@
 {
   "ID": "3d85c1d1-96d4-4be2-b4cb-63ad2064c2ca",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "DetailScene",
   "Content": {
     "Content": {
@@ -267,7 +267,7 @@
         "Default/ImageFile.png",
         "Default/Sprite.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Scene"

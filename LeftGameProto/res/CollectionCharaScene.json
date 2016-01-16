@@ -1,6 +1,6 @@
 {
   "ID": "36084c4a-6084-4005-8d25-9fdd3ac86902",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "CollectionCharaScene",
   "Content": {
     "Content": {
@@ -17,7 +17,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "CSResources/back_main2.jpg",
+              "Path": "CSResources/back_main2_1.jpg",
               "Plist": ""
             },
             "Scale9Width": 640,
@@ -49,7 +49,7 @@
               "Y": 0.8687
             },
             "LeftMargin": -0.0014,
-            "RightMargin": 0.0013,
+            "RightMargin": 0.0014,
             "TopMargin": 63.0006,
             "BottomMargin": 62.9994,
             "Tag": 157,
@@ -78,6 +78,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {
               "ScaleX": 0.5,
@@ -116,6 +118,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -167,13 +171,13 @@
                       "Y": 0.5
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.4656,
+                      "Y": 0.58
                     },
-                    "LeftMargin": 297.0,
-                    "RightMargin": 297.0,
-                    "TopMargin": 227.0,
-                    "BottomMargin": 227.0,
+                    "LeftMargin": 171.0,
+                    "RightMargin": 171.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 105.0,
                     "Tag": 177,
                     "ActionTag": -1155549490,
                     "Size": {
@@ -206,6 +210,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -259,13 +265,13 @@
                       "Y": 0.5
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.4656,
+                      "Y": 0.58
                     },
-                    "LeftMargin": 297.0,
-                    "RightMargin": 297.0,
-                    "TopMargin": 227.0,
-                    "BottomMargin": 227.0,
+                    "LeftMargin": 171.0,
+                    "RightMargin": 171.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 105.0,
                     "Tag": 178,
                     "ActionTag": -1346507916,
                     "Size": {
@@ -298,6 +304,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -351,13 +359,13 @@
                       "Y": 0.5
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.4656,
+                      "Y": 0.58
                     },
-                    "LeftMargin": 297.0,
-                    "RightMargin": 297.0,
-                    "TopMargin": 227.0,
-                    "BottomMargin": 227.0,
+                    "LeftMargin": 171.0,
+                    "RightMargin": 171.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 105.0,
                     "Tag": 179,
                     "ActionTag": -1273450350,
                     "Size": {
@@ -390,6 +398,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -443,13 +453,13 @@
                       "Y": 0.5
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.4656,
+                      "Y": 0.58
                     },
-                    "LeftMargin": 297.0,
-                    "RightMargin": 297.0,
-                    "TopMargin": 227.0,
-                    "BottomMargin": 227.0,
+                    "LeftMargin": 171.0,
+                    "RightMargin": 171.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 105.0,
                     "Tag": 180,
                     "ActionTag": -1872206808,
                     "Size": {
@@ -482,6 +492,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -535,13 +547,13 @@
                       "Y": 0.5
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.4656,
+                      "Y": 0.58
                     },
-                    "LeftMargin": 297.0,
-                    "RightMargin": 297.0,
-                    "TopMargin": 227.0,
-                    "BottomMargin": 227.0,
+                    "LeftMargin": 171.0,
+                    "RightMargin": 171.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 105.0,
                     "Tag": 181,
                     "ActionTag": 845366866,
                     "Size": {
@@ -598,8 +610,8 @@
               "Y": 0.0128
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 1.0,
+              "Y": 0.3396
             },
             "TopMargin": 784.7108,
             "BottomMargin": -150.7108,
@@ -641,13 +653,11 @@
               "Y": 0.7292
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 1.0,
+              "Y": 0.1667
             },
-            "LeftMargin": 297.0,
-            "RightMargin": 297.0,
-            "TopMargin": 237.0,
-            "BottomMargin": 677.0,
+            "TopMargin": 180.0,
+            "BottomMargin": 620.0,
             "Tag": 189,
             "ActionTag": -1482082880,
             "Size": {
@@ -686,11 +696,11 @@
               "Y": 0.2708
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 1.0,
+              "Y": 0.1875
             },
-            "TopMargin": 620.0,
-            "BottomMargin": 180.0,
+            "TopMargin": 610.0,
+            "BottomMargin": 170.0,
             "Tag": 190,
             "ActionTag": 929200074,
             "Size": {
@@ -1441,7 +1451,7 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.2813,
+              "X": 0.2812,
               "Y": 0.8417
             },
             "PreSize": {
@@ -1620,7 +1630,7 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "CSResources/back_main2.jpg",
+        "CSResources/back_main2_1.jpg",
         "CSResources/back01.png",
         "CSResources/button_back.png",
         "CSResources/button_left.png",
@@ -1644,7 +1654,7 @@
         "CSResources/plate.png",
         "CSResources/plate2.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Scene"

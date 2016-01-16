@@ -1,6 +1,6 @@
 {
   "ID": "c3a23ecc-da88-4962-87f5-88277de26295",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "CollectionFigureScene",
   "Content": {
     "Content": {
@@ -17,7 +17,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "CSResources/back_main2.jpg",
+              "Path": "CSResources/back_main2_1.jpg",
               "Plist": ""
             },
             "Scale9Width": 640,
@@ -49,7 +49,7 @@
               "Y": 0.8687
             },
             "LeftMargin": -0.0014,
-            "RightMargin": 0.0013,
+            "RightMargin": 0.0014,
             "TopMargin": 63.0006,
             "BottomMargin": 62.9994,
             "Tag": 200,
@@ -78,7 +78,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
-            "TouchEnable": true,
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5
@@ -124,7 +125,10 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
-                "TouchEnable": true,
+                "Scale9OriginX": 211,
+                "Scale9OriginY": 270,
+                "Scale9Width": 218,
+                "Scale9Height": 280,
                 "AnchorPoint": {},
                 "Position": {
                   "X": 0.0,
@@ -175,8 +179,8 @@
                       "Y": 0.6682
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 67.9963,
                     "RightMargin": 408.0037,
@@ -220,8 +224,8 @@
                       "Y": 0.6682
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 237.998,
                     "RightMargin": 238.002,
@@ -265,8 +269,8 @@
                       "Y": 0.6682
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 407.9974,
                     "RightMargin": 68.0026,
@@ -310,8 +314,8 @@
                       "Y": 0.4247
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 67.9963,
                     "RightMargin": 408.0037,
@@ -355,8 +359,8 @@
                       "Y": 0.4247
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 237.998,
                     "RightMargin": 238.002,
@@ -400,8 +404,8 @@
                       "Y": 0.4247
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 407.9974,
                     "RightMargin": 68.0026,
@@ -445,8 +449,8 @@
                       "Y": 0.1554
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 67.9963,
                     "RightMargin": 408.0037,
@@ -490,8 +494,8 @@
                       "Y": 0.1554
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 237.998,
                     "RightMargin": 238.002,
@@ -535,8 +539,8 @@
                       "Y": 0.1554
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.2562,
+                      "Y": 0.2103
                     },
                     "LeftMargin": 407.9974,
                     "RightMargin": 68.0026,
@@ -598,8 +602,8 @@
               "Y": 0.0128
             },
             "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 1.0,
+              "Y": 0.3396
             },
             "TopMargin": 784.7108,
             "BottomMargin": -150.7108,
@@ -925,7 +929,7 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "CSResources/back_main2.jpg",
+        "CSResources/back_main2_1.jpg",
         "CSResources/back01.png",
         "CSResources/button_back.png",
         "CSResources/button01.png",
@@ -944,7 +948,7 @@
         "CSResources/figure09.png",
         "CSResources/shelf_1.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Scene"

@@ -1,6 +1,6 @@
 {
   "ID": "56d39af3-3b86-468b-89cc-86592ace20d2",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "GameScene",
   "Content": {
     "Content": {
@@ -122,7 +122,7 @@
             },
             "Position": {
               "X": 320.0,
-              "Y": 480.0
+              "Y": 250.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -132,7 +132,7 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.5,
-              "Y": 0.5
+              "Y": 0.2604
             },
             "PreSize": {
               "X": 0.0,
@@ -140,8 +140,8 @@
             },
             "LeftMargin": 171.0,
             "RightMargin": 171.0,
-            "TopMargin": 335.0,
-            "BottomMargin": 335.0,
+            "TopMargin": 565.0,
+            "BottomMargin": 105.0,
             "Tag": 296,
             "ActionTag": 1232078303,
             "Size": {
@@ -285,6 +285,321 @@
             },
             "Name": "AtlasLabel_1",
             "ctype": "TextAtlasObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 50.2801,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0786,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 7.2801,
+            "RightMargin": 546.7199,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 121,
+            "ActionTag": -185682430,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.601,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2197,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 97.601,
+            "RightMargin": 456.399,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 122,
+            "ActionTag": -1608354784,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star02",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 230.9218,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3608,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 187.9218,
+            "RightMargin": 366.0782,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 123,
+            "ActionTag": -1763985854,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star03",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.2427,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5019,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 278.2427,
+            "RightMargin": 275.7573,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 124,
+            "ActionTag": -2077731937,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star04",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 411.564,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6431,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 368.564,
+            "RightMargin": 185.436,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 125,
+            "ActionTag": 694232969,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star05",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 501.8844,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7842,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 458.8844,
+            "RightMargin": 95.1156,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 126,
+            "ActionTag": -2070232288,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star06",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "CSResources/star03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.2054,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9253,
+              "Y": 0.1042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 549.2054,
+            "RightMargin": 4.7946,
+            "TopMargin": 817.0,
+            "BottomMargin": 57.0,
+            "Tag": 127,
+            "ActionTag": -1890135215,
+            "Size": {
+              "X": 86.0,
+              "Y": 86.0
+            },
+            "Name": "star07",
+            "ctype": "SpriteObjectData"
           }
         ],
         "Size": {
@@ -299,10 +614,11 @@
         "CSResources/back01.png",
         "CSResources/character_A01.png",
         "CSResources/gauge.png",
+        "CSResources/star03.png",
         "Default/LoadingBarFile.png",
         "Default/TextAtlas.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Scene"
