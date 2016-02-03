@@ -260,6 +260,7 @@
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
                 <file name="src/common.js"/>
+                <file name="src/jquery-2.2.0.min.js"/>
                 <file name="main.js"/>
 
             </sources>
