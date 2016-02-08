@@ -258,6 +258,7 @@
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
                 <file name="src/common.js"/>
+                <file name="src/stageselect.js"/>
                 <file name="src/gameplay.js"/>
                 <file name="src/gameplay_mission.js"/>
                 <file name="src/gameplay_mission_target.js"/>
