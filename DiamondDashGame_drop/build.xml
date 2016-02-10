@@ -2,7 +2,7 @@
 <project name="Javascript compress project" basedir="C:\Users\kariya_hiromu\Documents\Cocos\CocosProjects\MatchThreeGame" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
-             classpath="C:\Cocos\frameworks\cocos2d-x-3.8\tools\cocos2d-console\plugins\project_compile\build_web/bin/compiler-1.7.jar"/>
+             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.10\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
         <jscomp compilationLevel="simple" 
@@ -263,6 +263,7 @@
                 <file name="src/gameplay_mission.js"/>
                 <file name="src/gameplay_mission_target.js"/>
                 <file name="src/gameplay_mission_drop.js"/>
+                <file name="src/gameplay_mission_score.js"/>
                 <file name="src/app.js"/>
                 <file name="src/underscore-min.js"/>
                 <file name="main.js"/>
