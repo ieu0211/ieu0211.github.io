@@ -257,6 +257,7 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
+                <file name="src/database_stage.js"/>
                 <file name="src/common.js"/>
                 <file name="src/stageselect.js"/>
                 <file name="src/gameplay.js"/>
@@ -266,6 +267,7 @@
                 <file name="src/gameplay_mission_score.js"/>
                 <file name="src/app.js"/>
                 <file name="src/underscore-min.js"/>
+                <file name="src/ACTComponent.js"/>
                 <file name="main.js"/>
 
             </sources>

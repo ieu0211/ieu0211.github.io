@@ -118,11 +118,11 @@
           },
           {
             "FontResource": {
-              "Type": "Normal",
-              "Path": "misaki_gothic.ttf",
+              "Type": "Default",
+              "Path": "",
               "Plist": ""
             },
-            "FontSize": 72,
+            "FontSize": 48,
             "IsCustomSize": true,
             "LabelText": "",
             "PlaceHolderText": "YAMADA PUZZLE",
@@ -133,8 +133,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 325.6383,
-              "Y": 909.9998
+              "X": 382.5214,
+              "Y": 894.797
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -143,17 +143,17 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.5088,
-              "Y": 0.9479
+              "X": 0.5977,
+              "Y": 0.9321
             },
             "PreSize": {
               "X": 0.8125,
               "Y": 0.0833
             },
-            "LeftMargin": 65.6383,
-            "RightMargin": 54.3617,
-            "TopMargin": 10.0002,
-            "BottomMargin": 869.9998,
+            "LeftMargin": 122.5214,
+            "RightMargin": -2.5214,
+            "TopMargin": 25.203,
+            "BottomMargin": 854.797,
             "Tag": 6,
             "ActionTag": 1529192875,
             "Size": {
@@ -171,9 +171,7 @@
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"
       },
-      "UsedResources": [
-        "misaki_gothic.ttf"
-      ],
+      "UsedResources": [],
       "ctype": "GameFileData"
     }
   },
