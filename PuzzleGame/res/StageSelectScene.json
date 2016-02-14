@@ -1,0 +1,83 @@
+{
+  "ID": "958ef48a-70f0-41c2-9484-0b139b5e025b",
+  "Version": "2.3.3.0",
+  "Name": "StageSelectScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "InnerNodeSize": {
+              "Width": 640,
+              "Height": 1600
+            },
+            "ScrollDirectionType": "Vertical",
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4167
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8333
+            },
+            "TopMargin": 160.0,
+            "Tag": 626,
+            "ActionTag": 276556369,
+            "Size": {
+              "X": 640.0,
+              "Y": 800.0
+            },
+            "Name": "ScrollView_1",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
