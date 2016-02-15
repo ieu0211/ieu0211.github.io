@@ -1,6 +1,6 @@
 {
   "ID": "958ef48a-70f0-41c2-9484-0b139b5e025b",
-  "Version": "2.3.3.0",
+  "Version": "2.3.4",
   "Name": "StageSelectScene",
   "Content": {
     "Content": {
@@ -20,6 +20,7 @@
               "Height": 1600
             },
             "ScrollDirectionType": "Vertical",
+            "ClipAble": false,
             "BackColorAlpha": 102,
             "ComboBoxIndex": 1,
             "SingleColor": {
