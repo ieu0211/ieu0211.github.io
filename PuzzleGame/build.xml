@@ -75,6 +75,7 @@
                 <file name="cocos2d/core/sprites/CCSpriteFrameCache.js"/>
                 <file name="cocos2d/core/CCConfiguration.js"/>
                 <file name="cocos2d/core/CCDirector.js"/>
+                <file name="cocos2d/core/CCDirectorCanvas.js"/>
                 <file name="cocos2d/core/CCDirectorWebGL.js"/>
                 <file name="cocos2d/core/CCCamera.js"/>
                 <file name="cocos2d/core/CCScheduler.js"/>
@@ -194,7 +195,9 @@
                 <file name="extensions/ccui/uiwidgets/UITextAtlas.js"/>
                 <file name="extensions/ccui/uiwidgets/UITextBMFont.js"/>
                 <file name="extensions/ccui/uiwidgets/UITextField.js"/>
+                <file name="extensions/ccui/uiwidgets/UIVideoPlayer.js"/>
                 <file name="extensions/ccui/uiwidgets/UIRichText.js"/>
+                <file name="extensions/ccui/uiwidgets/UIWebView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIListView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageView.js"/>
@@ -239,6 +242,9 @@
                 <file name="extensions/cocostudio/timeline/ActionTimeline.js"/>
                 <file name="extensions/cocostudio/timeline/Frame.js"/>
                 <file name="extensions/cocostudio/timeline/Timeline.js"/>
+                <file name="extensions/cocostudio/timeline/CCSkinNode.js"/>
+                <file name="extensions/cocostudio/timeline/CCBoneNode.js"/>
+                <file name="extensions/cocostudio/timeline/CCSkeletonNode.js"/>
                 <file name="extensions/cocostudio/loader/load.js"/>
                 <file name="extensions/cocostudio/loader/parsers/scene-1.x.js"/>
                 <file name="extensions/cocostudio/loader/parsers/uiParser-1.x.js"/>
@@ -256,9 +262,11 @@
                 <file name="src/database_stage.js"/>
                 <file name="src/class_gamemanager.js"/>
                 <file name="src/class_gameobserver.js"/>
+                <file name="src/class_userdata.js"/>
                 <file name="src/class_uicomponent.js"/>
                 <file name="src/class_actioncomponent.js"/>
                 <file name="src/class_piecesprite.js"/>
+                <file name="src/layer_modal.js"/>
                 <file name="src/scene_stageselect.js"/>
                 <file name="src/scene_game.js"/>
                 <file name="main.js"/>

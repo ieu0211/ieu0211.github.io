@@ -1,0 +1,212 @@
+{
+  "ID": "53da0748-7d75-42aa-8a47-4ea12704a0d3",
+  "Version": "2.3.4",
+  "Name": "ModalLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 6,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ModalBackground.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 473.9773
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4937
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 6.0227,
+            "BottomMargin": -6.0227,
+            "Tag": 7,
+            "ActionTag": -1111833091,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Alpha": 127,
+            "Name": "ModalBackground_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "star-off.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 160.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.25,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4,
+              "Y": 0.2667
+            },
+            "LeftMargin": 32.0,
+            "RightMargin": 352.0,
+            "TopMargin": 352.0,
+            "BottomMargin": 352.0,
+            "Tag": 8,
+            "ActionTag": 415690403,
+            "Size": {
+              "X": 256.0,
+              "Y": 256.0
+            },
+            "Name": "Achievement_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "star-off.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4,
+              "Y": 0.2667
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 192.0,
+            "TopMargin": 352.0,
+            "BottomMargin": 352.0,
+            "Tag": 9,
+            "ActionTag": 1788542998,
+            "Size": {
+              "X": 256.0,
+              "Y": 256.0
+            },
+            "Name": "Achievement_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "star-off.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.75,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.4,
+              "Y": 0.2667
+            },
+            "LeftMargin": 352.0,
+            "RightMargin": 32.0,
+            "TopMargin": 352.0,
+            "BottomMargin": 352.0,
+            "Tag": 10,
+            "ActionTag": -1845111328,
+            "Size": {
+              "X": 256.0,
+              "Y": 256.0
+            },
+            "Name": "Achievement_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ModalBackground.png",
+        "star-off.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
