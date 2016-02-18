@@ -269,6 +269,7 @@
                 <file name="src/layer_modal.js"/>
                 <file name="src/scene_stageselect.js"/>
                 <file name="src/scene_game.js"/>
+                <file name="src/scene_tutorial.js"/>
                 <file name="main.js"/>
 
             </sources>
