@@ -42,14 +42,18 @@
               "Y": 0.5
             },
             "PreSize": {
-              "X": 1.0,
-              "Y": 1.0
+              "X": 0.0719,
+              "Y": 0.0479
             },
+            "LeftMargin": 297.0,
+            "RightMargin": 297.0,
+            "TopMargin": 457.0,
+            "BottomMargin": 457.0,
             "Tag": 5,
             "ActionTag": -620272433,
             "Size": {
-              "X": 640.0,
-              "Y": 960.0
+              "X": 46.0,
+              "Y": 46.0
             },
             "Name": "Default",
             "ctype": "SpriteObjectData"
