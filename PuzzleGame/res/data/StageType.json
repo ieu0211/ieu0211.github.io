@@ -279,7 +279,7 @@
     "mission": {
       "time": null,
       "moves": 20,
-      "area": true,
+      "area": null,
       "drop": null,
       "piece": {
       	"11": 8
