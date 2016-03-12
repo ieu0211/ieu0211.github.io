@@ -281,6 +281,9 @@
       "moves": 20,
       "area": true,
       "drop": null,
+      "piece": {
+      	"11": 8
+      },
       "score": null
     },
     "achievement": {
