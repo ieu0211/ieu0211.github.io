@@ -27,7 +27,7 @@
     ],
     "mission": {
       "time": null,
-      "moves": 20,
+      "moves": 15,
       "area": null,
       "drop": null,
       "piece": {
@@ -70,7 +70,7 @@
     ],
     "mission": {
       "time": null,
-      "moves": 20,
+      "moves": 15,
       "area": true,
       "drop": null,
       "score": null
@@ -111,9 +111,9 @@
     "mission": {
       "time": null,
       "moves": 30,
-      "area": null,
+      "area": true,
       "drop": null,
-      "score": 18000
+      "score": null
     },
     "achievement": {
         "1": 18000,
