@@ -508,7 +508,7 @@
     ],
     "mission": {
       "time": null,
-      "moves": 20,
+      "moves": 30,
       "area": true,
       "drop": null,
       "score": null
