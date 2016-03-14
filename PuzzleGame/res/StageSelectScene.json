@@ -58,7 +58,7 @@
           {
             "InnerNodeSize": {
               "Width": 640,
-              "Height": 4800
+              "Height": 2320
             },
             "ScrollDirectionType": "Vertical",
             "ClipAble": false,
@@ -141,7 +141,7 @@
             },
             "PreSize": {
               "X": 1.0,
-              "Y": 0.2021
+              "Y": 0.2281
             },
             "TopMargin": 0.5,
             "BottomMargin": 740.5,
