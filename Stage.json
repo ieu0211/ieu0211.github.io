@@ -45,7 +45,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 5,
+	"move" : 15,
 	"missions" : [
 		{ "pieceId" : 70 , "count" : 99 },
 		{ "pieceId" : 5 , "count" : 99 },
