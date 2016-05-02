@@ -737,7 +737,7 @@
 	"id": 80,
 	"col": 8,
 	"row": 10,
-	"type": [3,4,5],
+	"type": [91,92,93,94,95],
 	"floor": [
 		[0,0,0,0,0,0,0,0],
 		[1,1,1,1,1,1,1,1],
@@ -774,21 +774,21 @@
 		[0,0,0,0,0,0,0,0],
 		[0,0,0,0,0,0,30,0]
 	],
-	"mode": "mission",
+	"mode": "timeAttack",
 	"score": [10000, 24000, 35000],
 	"move" : 15,
 	"missions" : [
-		{ "pieceId" : 70 , "count" : 99 },
-		{ "pieceId" : 5 , "count" : 99 },
-		{ "pieceId" : 1000 , "count" : 99 },
-		{ "pieceId" : 140 , "count" : 99 }
+		{ "pieceId" : 131 , "count" : 1 },
+		{ "pieceId" : 5 , "count" : 1 },
+		{ "pieceId" : 1000 , "count" : 1 },
+		{ "pieceId" : 140 , "count" : 1 }
 	],
-	"time": 40
+	"time": 45
 },
 {
 	"id": 99,
-	"row": 10,
 	"col": 7,
+	"row": 10,
 	"type": [91,92,93,94,95],
 	"piece": [
 		[0,0,0,0,0,0,0],
