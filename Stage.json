@@ -1837,7 +1837,7 @@
 	"time": 0
 },
 {
-	"id": 59,
+	"id": 60,
 	"row": 11,
 	"col": 9,
 	"type": [1,3,4,5],
@@ -1884,7 +1884,7 @@
 	"score": [1000, 2000, 3500],
 	"move" : 15,
 	"missions" : [
-		{ "pieceId" : 5 , "count" : 2, "minConnectCount" : 10 }
+		{ "pieceId" : 5 , "count" : 5, "minConnectCount" : 5 }
 	],
 	"time": 0
 },
