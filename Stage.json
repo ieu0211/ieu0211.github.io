@@ -2240,7 +2240,7 @@
 	"move" : 60,
 	"missions" : [
 		{ "pieceId" : 124 , "count" : 1 },
-		{ "pieceId" : 123 , "count" : 1 },
+		{ "pieceId" : 123 , "count" : 1 }
 	],
 	"time": 0
 },
