@@ -1821,7 +1821,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 40,
+	"move" : 50,
 	"missions" : [
 		{ "pieceId" : 61 , "count" : 4 }
 	],
@@ -1875,7 +1875,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 40,
 	"missions" : [
-		{ "pieceId" : 77 , "count" : 14 }
+		{ "pieceId" : 1002 , "count" : 6 }
 	],
 	"time": 0
 },
@@ -2083,7 +2083,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 25,
 	"missions" : [
-		{ "pieceId" : 70 , "count" : 2 }
+		{ "pieceId" : 77 , "count" : 2 }
 	],
 	"time": 0
 },
