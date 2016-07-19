@@ -4595,7 +4595,8 @@
 	"score": [10000, 24000, 35000],
 	"move" : 35,
 	"missions" : [
-		{ "pieceId" : 31 , "count" : 3 }
+		{ "pieceId" : 5 , "count" : 20 },
+		{ "pieceId" : 3 , "count" : 20 }
 	],
 	"time": 0
 },
