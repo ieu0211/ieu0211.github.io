@@ -5116,9 +5116,9 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 20,
+	"move" : 25,
 	"missions" : [
-		{ "pieceId" : 77 , "count" : 2 }
+		{ "pieceId" : 77 , "count" : 3 }
 	],
 	"time": 0
 }
