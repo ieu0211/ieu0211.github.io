@@ -151,7 +151,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 15,
+	"move" : 20,
 	"missions" : [
 		{ "pieceId" : 1 , "count" : 4 },
 		{ "pieceId" : 2 , "count" : 20 }
@@ -204,7 +204,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 15,
+	"move" : 29,
 	"missions" : [
 		{ "pieceId" : 1 , "count" : 12 },
 		{ "pieceId" : 5 , "count" : 25 },
@@ -258,7 +258,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 15,
+	"move" : 30,
 	"missions" : [
 		{ "pieceId" : 1 , "count" : 10 },
 		{ "pieceId" : 5 , "count" : 35 },
@@ -416,7 +416,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 25,
+	"move" : 30,
 	"missions" : [
 		{ "pieceId" : 77 , "count" : 4 }
 	],
@@ -468,7 +468,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 25,
+	"move" : 35,
 	"missions" : [
 		{ "pieceId" : 61 , "count" : 36 }
 	],
@@ -520,7 +520,7 @@
 	],
 	"mode": "mission",
 	"score": [10000, 24000, 35000],
-	"move" : 25,
+	"move" : 28,
 	"missions" : [
 		{ "pieceId" : 61 , "count" : 25 },
 		{ "pieceId" : 3, "count" : 16 }
