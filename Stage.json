@@ -1737,7 +1737,7 @@
 	"missions" : [
 		{ "pieceId" : 129 , "count" : 10 },
 		{ "pieceId" : 1, "count" : 30 },
-                { "pieceId" : 4, "count" : 30 },
+                { "pieceId" : 4, "count" : 30 }
 	],
 	"time": 0
 },
@@ -1789,7 +1789,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 45,
 	"missions" : [
-		{ "pieceId" : 1000 , "count" : 27 },
+		{ "pieceId" : 1000 , "count" : 27 }
 	],
 	"time": 0
 },
@@ -1841,7 +1841,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 30,
 	"missions" : [
-		{ "pieceId" : 1000 , "count" : 14 },
+		{ "pieceId" : 1000 , "count" : 14 }
 	],
 	"time": 0
 },
@@ -1893,7 +1893,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 35,
 	"missions" : [
-		{ "pieceId" : 77 , "count" : 4 },
+		{ "pieceId" : 77 , "count" : 4 }
 	],
 	"time": 0
 },
@@ -1945,7 +1945,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 35,
 	"missions" : [
-		{ "pieceId" : 77 , "count" : 3 },
+		{ "pieceId" : 77 , "count" : 3 }
 	],
 	"time": 0
 },
@@ -1997,7 +1997,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 50,
 	"missions" : [
-		{ "pieceId" : 77 , "count" : 4 },
+		{ "pieceId" : 77 , "count" : 4 }
 	],
 	"time": 0
 },
