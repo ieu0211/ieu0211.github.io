@@ -1584,7 +1584,7 @@
 		{ "pieceId" : 1004 , "count" : 100, "wave" : 2, "actionInterval" : 10, "movingDistance" : 1, "isLastEnemy" : true, "height" : 1, "missionImageFileName" : "balloon_1004", "characterImageFileName" : "chara_10" }
 	],
 	"time": 0
-}
+},
 {
 	"id": 31,
 	"col": 9,
