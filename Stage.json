@@ -2483,7 +2483,7 @@
 	"score": [10000, 24000, 35000],
 	"move" : 45,
 	"missions" : [
-		{ "pieceId" : 280 , "count" : 14 },
+		{ "pieceId" : 260 , "count" : 14 },
                 { "pieceId" : 5 , "count" : 20 }
        	],
 	"time": 0
