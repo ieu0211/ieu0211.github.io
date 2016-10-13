@@ -470,7 +470,7 @@
 		{ "pieceId" : 1004 , "wave" : 2, "actionInterval" : 5, "characterImageFileName" : "chara_01", "hp" : 300, "attack" : 100 },
 		{ "pieceId" : 1004 , "wave" : 2, "actionInterval" : 5, "characterImageFileName" : "chara_01", "hp" : 300, "attack" : 100 },
 		{ "pieceId" : 1004 , "wave" : 3, "actionInterval" : 5, "characterImageFileName" : "chara_01", "hp" : 300, "attack" : 100 },
-		{ "pieceId" : 1004 , "wave" : 3, "actionInterval" : 5, "characterImageFileName" : "chara_10", "hp" : 700, "attack" : 500 }
+		{ "pieceId" : 1004 , "wave" : 3, "actionInterval" : 5, "characterImageFileName" : "chara_10", "hp" : 700, "attack" : 500 },
 		{ "pieceId" : 1004 , "wave" : 3, "actionInterval" : 5, "characterImageFileName" : "chara_01", "hp" : 300, "attack" : 100 },
 	],
 	"time": 0
